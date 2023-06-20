@@ -31,8 +31,8 @@ Passei minha carreira no Exército desenvolvendo soluções tecnológicas em div
 ![](https://img.shields.io/badge/fastText-black)
 
 ### Tarefas de Machine Learning
-- Análise Exploratória (EDA)
 - Extração, Transformação e Carga de Dados (ETL)
-- Gerência de Datalake
-- Processamento de Linguagem Natural (NLP)
+- Análise Exploratória (EDA)
 - Regressão, Classificação, Agrupamento
+- Processamento de Linguagem Natural (NLP)
+- Processamento de Dados Geo-Espaciais

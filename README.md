@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/sobre_mim-blue?style=for-the-badge)](#-sobre-mim)
 [![](https://img.shields.io/badge/formação-blue?style=for-the-badge)](#mortar_board-formação)
 [![](https://img.shields.io/badge/habilidades-blue?style=for-the-badge)](#-habilidades)
-[![](https://img.shields.io/badge/Trabalhos_e_Artigos-blue?style=for-the-badge)](#scrol-trabalhos-e-artigos-publicados)
+[![](https://img.shields.io/badge/Trabalhos_e_Artigos-blue?style=for-the-badge)](#scroll-trabalhos-e-artigos-publicados)
 
 
 ## 🧔 Sobre mim

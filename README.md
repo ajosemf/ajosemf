@@ -38,7 +38,7 @@ Passei minha carreira no Exército desenvolvendo soluções tecnológicas em div
 - Análise Exploratória (EDA)
 - Regressão, Classificação, Agrupamento
 - Processamento de Linguagem Natural (NLP)
-- Processamento de Dados Geo-Espaciais
+- Processamento de Dados Geoespaciais
 
 ## :scroll: Trabalhos e Artigos Publicados
 ### Classificação de Produtos em Notas Fiscais Eletrônicas
